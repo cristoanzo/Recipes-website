@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(99, 194, 122);
+  line-height: 1.5;
+}
+
+.burrito,
+.sliders,
+.torta {
+  height: auto;
+  width: 300px;
+}
